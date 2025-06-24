@@ -22,3 +22,6 @@ Many related tweaks are grouped into optimized combos to reduce resource pack cl
 - Vanilla Minecraft 1.21.5 & 1.21.6 (and more soon)
 - Working on any Client (purely visual)
 - Other resource packs layered below.
+
+License: CC BY-NC-SA 4.0
+You may remix, adapt, or share this pack non-commercially as long as you credit "DrSquiddy69" and license your changes under the same terms.
